@@ -52,18 +52,4 @@ Este notebook processa os dados dos arquivos CSV armazenados na pasta backup e g
 
 **Atualização e Backup**
 
-Os dados são salvos e atualizados automaticamente pelos notebooks de inserção.
-
-**Caminho para os Dados CSV**
-
-Os caminhos para os arquivos CSV são especificados no código dos notebooks. Certifique-se de atualizar esses caminhos para refletir a localização correta dos arquivos CSV em seu sistema.
-
-P/ 'NSB (ano).ipynb':
-   ```bash
-   caminho_csv = 'C:\\Seu\\Caminho\\Para\\totais_mensais_2022.csv'
-   caminho_backup = 'C:\\Seu\\Caminho\\Para\\backup\\totais_mensais_2022_backup.csv'
-   ```
-P/ 'Navy Seal Burpees.ipynb':
-   ```bash
-   caminho_backup_pasta = 'E:\\Documentos\\Navy-Seal-Burpees\\backup'
-   ```
+Os dados são salvos e atualizados automaticamente pelos notebooks de inserção. Os caminhos para os arquivos CSV são especificados por caminhos relativos com base no diretório atual
