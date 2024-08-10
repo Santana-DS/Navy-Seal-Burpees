@@ -30,7 +30,7 @@ Notebook principal que processa os dados dos arquivos CSV gerados e mantém aná
    Clone este repositório para o seu ambiente local usando:
 
    ```bash
-   git clone https://github.com/seu_usuario/seu_repositorio.git
+   git clone https://github.com/Santana-DS/Navy-Seal-Burpees
    ```
    
 ## Uso
