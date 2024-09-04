@@ -1,5 +1,7 @@
 # Navy Seal Burpees Tracker
 
+![Gráfico Total](backup/grafico_total.png)
+
 ## Visão Geral
 
 O **Navy Seal Burpees Tracker** é uma aplicação para monitorar e registrar a quantidade de Navy Seal Burpees (NSBs) realizados. O sistema é baseado em notebooks Jupyter e utiliza arquivos CSV para armazenar e gerenciar os dados.
