@@ -2,13 +2,13 @@
 
 ![Gráfico Total](backup/grafico_total.png)
 
-O **Navy Seal Burpee** é o número #1 dos exercícios. É uma variação avançada e intensa do burpee tradicional que inclui três flexões e "mountain climbers" dentro de cada repetição, tornando-o um exercício completo que envolve todos os grupos musculares principais, especialmente peito, braços, ombros, core e pernas. Ele também aumenta a frequência cardíaca rapidamente, proporcionando um treino cardiovascular eficaz. Esse exercício é excelente para melhorar força, resistência, coordenação, agilidade e letalidade. Contar cada repetição torna-o um exercício de corpo e mente.
+**Navy Seal Burpee** é o número #1 dos exercícios. É uma variação avançada e intensa do burpee tradicional que inclui três flexões e "mountain climbers" dentro de cada repetição, tornando-o um exercício completo que envolve todos os grupos musculares principais, especialmente peito, braços, ombros, core e pernas. Ele também aumenta a frequência cardíaca rapidamente, proporcionando um treino cardiovascular eficaz. Esse exercício é excelente para melhorar força, resistência, coordenação, agilidade e letalidade. Contar cada repetição torna-o um exercício de corpo e mente.
 
 The **Navy Seal Burpee** is the number #1 exercise. It is an advanced and intense variation of the traditional burpee that includes three push-ups and mountain climbers within each repetition, making it a complete exercise that engages all major muscle groups, especially the chest, arms, shoulders, core and legs. It also quickly increases the heart rate, providing an effective cardiovascular workout. This exercise is excellent for improving strength, endurance, coordination, agility and lethality. Counting each repetition makes it a mind-body workout.
 
 ## Visão Geral
 
-O **Navy Seal Burpees Tracker** é uma aplicação para monitorar e registrar a quantidade de Navy Seal Burpees (NSBs) realizados. O sistema é baseado em notebooks Jupyter e utiliza arquivos CSV para armazenar e gerenciar os dados.
+**Navy Seal Burpees Tracker** é uma aplicação para monitorar e registrar a quantidade de Navy Seal Burpees (NSBs) realizados. O sistema é baseado em notebooks Jupyter e utiliza arquivos CSV para armazenar e gerenciar os dados.
 
 Os arquivos principais incluem:
 
