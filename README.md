@@ -26,7 +26,7 @@ Notebook principal que processa os dados dos arquivos CSV gerados e mantém aná
 - Bibliotecas: `pandas`, `matplotlib`, `calendar`, `IPython`, `os`, `shutil`
 
     ```bash
-    pip install pandas matplotlib IPython
+    pip install pandas matplotlib notebook
    ```
   
 ## Configuração
