@@ -28,16 +28,7 @@ Notebook principal que processa os dados dos arquivos CSV gerados e mantém aná
     ```bash
     pip install pandas matplotlib notebook
    ```
-  
-## Configuração
 
-1. **Clone o Repositório**
-
-   Clone este repositório para o seu ambiente local usando:
-
-   ```bash
-   git clone https://github.com/Santana-DS/Navy-Seal-Burpees
-   ```
    
 ## Uso
 **Para abrir o notebook Jupyter**
